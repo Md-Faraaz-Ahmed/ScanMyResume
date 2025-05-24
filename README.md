@@ -1,4 +1,4 @@
-# Resume Keyword Highlighter 📝🔍
+# ScanMyResume 📝🔍
 
 A Streamlit-based web app that helps job seekers optimize their resumes by highlighting relevant keywords based on a job description or keyword list. It also provides an ATS-style report and supports resume comparison.
 
