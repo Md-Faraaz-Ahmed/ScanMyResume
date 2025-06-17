@@ -122,6 +122,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ---------- Title ----------
+st.title("ScanMyResume")
 st.title("🧠 Resume Keyword Highlighter + ATS Score")
 st.markdown("Highlight job-specific keywords in your resume and see how well it matches the job description (ATS score).")
 
